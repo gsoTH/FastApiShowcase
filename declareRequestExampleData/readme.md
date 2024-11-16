@@ -1,0 +1,1 @@
+examples for a Pydantic model that will be added to the generated JSON Schema.
